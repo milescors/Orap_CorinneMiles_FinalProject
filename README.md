@@ -36,4 +36,4 @@ Below is a demonstration of the system in action:
 
 ## 🎥 Video Demonstration
 The detailed 10-15 minute walkthrough and code explanation can be found here:
-[IPASTE DITO ANG YOUTUBE LINK]
+[https://youtu.be/5fscHLPZV78]
