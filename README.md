@@ -33,7 +33,7 @@ Below is a demonstration of the system in action:
 <img width="335" height="193" alt="Screenshot 2026-05-13 084533" src="https://github.com/user-attachments/assets/d0fce5bf-0ff0-49b1-8511-5d7f82ec560d" />
 
 ### 2. Viewing Formatted Records
-![Records_Table](Screenshot2.png)<img width="354" height="359" alt="Screenshot 2026-05-13 084610" src="https://github.com/user-attachments/assets/e0edaddd-dd28-4aad-a6ab-52d9f4d2aff6" />
+<img width="354" height="359" alt="Screenshot 2026-05-13 084610" src="https://github.com/user-attachments/assets/e0edaddd-dd28-4aad-a6ab-52d9f4d2aff6" />
 
 
 ## 🎥 Video Demonstration
