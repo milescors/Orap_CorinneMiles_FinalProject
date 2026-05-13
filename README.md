@@ -29,10 +29,12 @@ This is a Command Line Interface (CLI) application developed in Python to stream
 ## 🖥️ Sample CLI Usage
 Below is a demonstration of the system in action:
 
-### 1. Adding a New Student
-![Adding_Student](Screenshot1.png)
+### 1. Adding a New Student Records
+<img width="335" height="193" alt="Screenshot 2026-05-13 084533" src="https://github.com/user-attachments/assets/d0fce5bf-0ff0-49b1-8511-5d7f82ec560d" />
+
 ### 2. Viewing Formatted Records
-![Records_Table](Screenshot2.png)
+![Records_Table](Screenshot2.png)<img width="354" height="359" alt="Screenshot 2026-05-13 084610" src="https://github.com/user-attachments/assets/e0edaddd-dd28-4aad-a6ab-52d9f4d2aff6" />
+
 
 ## 🎥 Video Demonstration
 The detailed 10-15 minute walkthrough and code explanation can be found here:
